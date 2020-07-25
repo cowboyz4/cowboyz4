@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **cowboyz4/cowboyz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Frontend!
@@ -18,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
