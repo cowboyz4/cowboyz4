@@ -2,8 +2,10 @@
 
 **cowboyz4/cowboyz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Frontend!
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+## Languages y Tools!
+
+![HTML5](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
